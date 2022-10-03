@@ -6,6 +6,6 @@ Better Lichess UserStyle made by CreativeWinning is a UserStyle made to make lic
 
 ### Please use Stylus Extension for the code to work properly.
  
-Install BetterLichessStyle from UserStyle.world : https://userstyles.world/style/6753/better-lichess-userstyle
+Install BetterLichessStyle from UserStyle.world : [BetterLichessStyle — UserStyles.world](https://userstyles.world/style/6753/betterlichessstyle)
 
 Please Create an Issue in GitHub to help change the code and make it more better!
