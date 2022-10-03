@@ -2,7 +2,7 @@
 Better Lichess UserStyle made by CreativeWinning is a UserStyle made to make lichess look way better!
 
 BEFORE:
-[!](https://i.imgur.com/6AplKnA.png)
+!(https://i.imgur.com/6AplKnA.png)
 
 
 AFTER:
